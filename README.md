@@ -1,4 +1,4 @@
-# Machine-Learning
+# 🤖 Machine-Learning
 
 Notebooks for the class "EP08: Pattern Recognition and Machine Learning" at the University of Athens.
 
