@@ -7,6 +7,6 @@ The _ipynb_ files are included in this repository as well.Each notebook is fully
 
 |Method | Link to Google Colab |
 |:-:|:-:|
-| ML basics | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](link for HW1) |
-| HW2 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](link for HW2) |
+| ML basics | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16ZBhwDNML2T2v0oz5LegNKj5uj8heDgR?usp=sharing) |
+| Face recognition | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZhJFGjsWhwk5ZUneqgmA7d6dGmZVLUeQ?usp=sharing) |
 | Music genre classification | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ka2HponWibz990dLrlG2O9rOf7ncjdfz?usp=sharing) |
