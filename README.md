@@ -3,7 +3,7 @@
 Notebooks for the class "EP08: Pattern Recognition and Machine Learning" at the University of Athens.
 
 In the following table I include the links to Google Colaboratory for the various models.  
-The _ipynb_ files are included in this repository as well.Each notebook is fully documented in Greek.
+The _ipynb_ files are included in this repository as well. Each notebook is fully documented *in Greek*.
 
 |Method | Link to Google Colab |
 |:-:|:-:|
